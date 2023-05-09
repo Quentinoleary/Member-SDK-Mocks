@@ -610,7 +610,7 @@
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "brand": "nope"
+          "brand": null
         },
         {
           "id": "FR_Hero2",
@@ -621,7 +621,7 @@
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "brand": "nope"
+          "brand": null
         },
         {
           "id": "FR_Hero1",
@@ -632,7 +632,7 @@
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "brand": "nope"
+          "brand": null
         }
       ],
       "titleSection": [
