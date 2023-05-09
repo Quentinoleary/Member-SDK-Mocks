@@ -37,7 +37,7 @@
           "color": "Blue",
           "id": "ALERT_WELCOME",
           "title": "+50 welcome points",
-          "subTitle": "After your first purchase",
+          "subtitle": "After your first purchase",
           "icon": "line/something/gift",
           "closeable": false
         },
@@ -45,7 +45,7 @@
           "color": "White",
           "id": "ALERT_LOYALTY",
           "title": "Your loyalty card",
-          "subTitle": "Remember to show it at the checkout to get your points!",
+          "subtitle": "Remember to show it at the checkout to get your points!",
           "icon": "line/something/gift",
           "closeable": false,
           "action": {
